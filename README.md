@@ -1,6 +1,6 @@
 # ❤️ Amour Livre
 
-*Tout ceci est fictif à but éducatif*
+*Tout ceci est fictif*
 
 <img width="1436" alt="amourlivre" src="https://user-images.githubusercontent.com/25581092/117061819-ece73200-ad22-11eb-8f0c-407080542846.png">
 
